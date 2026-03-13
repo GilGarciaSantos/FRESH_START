@@ -1,6 +1,4 @@
 # FRESH_START
- Estudo...
-
- Estou novamente voltando aos estudos, muito confiante que dessa vez vou progredir.
-
- Adicionei esta linha diretamenmte no site do GitHub. 
+---
+### Estou novamente voltando aos **estudos**, muito _*confiante*_ que dessa vez vou progredir.
+---
